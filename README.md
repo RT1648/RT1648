@@ -1,5 +1,5 @@
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1> <h2 align="center">I'm Rohit Tiwari 🙋🏻‍♂️
-  
+
 ![GitHub followers](https://img.shields.io/github/followers/RT1648?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/RT1648?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=RT1648.repoName) <img src="https://komarev.com/ghpvc/?username=RT1648" alt="RT1648" />
 
 ---
@@ -11,6 +11,12 @@
 - ⚡ **Fun Facts** : 🍕 🏏 🚞 🎮 🧑‍💻
 
 <br>
+
+---
+
+### 💻 Environment
+[![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://www.opensuse.org/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
 
 ---
 
