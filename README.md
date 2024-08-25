@@ -7,7 +7,7 @@
 ### About Me :
 
 - 🏢 I am currently working as a **Student** 🧑🏻‍🎓
-- 🏡'Lives in **India** 
+- 🏡 Lives in **India** 
 - ⚡ **Fun Facts** : 🍕 🏏 🚞 🎮 🧑‍💻
 
 <br>
@@ -15,8 +15,8 @@
 ---
 
 ### 💻 Environment
-[![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://www.opensuse.org/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-red?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download/server)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-14/)
 
 ---
 
