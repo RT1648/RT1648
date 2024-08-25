@@ -2,15 +2,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/RT1648?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/RT1648?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=RT1648.repoName) <img src="https://komarev.com/ghpvc/?username=RT1648" alt="RT1648" />
 
----
   
 ### About Me :
 
 - 🏢 I am currently working as a **Student** 🧑🏻‍🎓
 - 🏡 Lives in **India** 
 - ⚡ **Fun Facts** : 🍕 🏏 🚞 🎮 🧑‍💻
-
-<br>
 
 ---
 
